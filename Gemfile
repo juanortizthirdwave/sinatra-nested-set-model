@@ -12,7 +12,7 @@ gem 'thin'
 
 gem 'activesupport'
 gem 'activerecord'
-
+gem 'awesome_nested_set'
 gem 'rake'
 
 gem 'shotgun'
